@@ -1,0 +1,7 @@
+{
+  "name": "ionic-angular-sidemenu",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
